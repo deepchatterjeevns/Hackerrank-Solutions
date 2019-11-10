@@ -1,2 +1,2 @@
 # Hackerrank Solutions
- Hackerrank solutions
+My learning of Hackerrank python questions.
